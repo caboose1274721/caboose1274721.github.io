@@ -4,3 +4,18 @@ body{
   background:#ECF0F1;
   background:#222;
 }
+
+body::-webkit-scrollbar{
+    display:none;
+}
+
+.welcome {
+    color:white;
+    font-family:"Baloo Bhai", sans-serif;
+    font-size: 2em;
+}
+
+a {
+  text-decoration: none;
+  color:#eee;
+}

@@ -19,3 +19,21 @@ a {
   text-decoration: none;
   color:#eee;
 }
+
+.section.main {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.section.main {
+  margin-top: 20px;
+}
+
+.list {
+  flex: 1 300px;
+  display: block;
+  max-width: 300px;
+  margin:0 5 px;
+  padding-bottom: 10px;
+  -webkit-box-shadow:0 0 3px rgba(0, 0, 0,0.1);
